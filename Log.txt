@@ -1,0 +1,6 @@
+2018-06-14 11:02:31.2701|INFO|SimpleEchoBot.SampleSessionSpeechlet|OnIntent requestId=amzn1.echo-api.request.27a28235-32f2-47a3-a67f-dabe03db7bb7, sessionId=amzn1.echo-api.session.307d7313-4e02-4677-82da-8581253d18d1
+2018-06-14 11:06:17.2341|INFO|SimpleEchoBot.SampleSessionSpeechlet|utterance=About France, Secret=bgObTDTKsys.cwA.1bg.XljRHIANuS1dKBPu3PogrAwwcHpLeaLYz5NoBOn5t2k, BotId=WebAppBotDev002
+2018-06-14 11:06:20.8031|INFO|SimpleEchoBot.SampleSessionSpeechlet|Result utterance=About France, result= Capital is Paris 
+ Region is Europe 
+ Sub Region is Western Europe 
+ 
